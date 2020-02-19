@@ -1,5 +1,5 @@
 # Earthquake_Damage
-This Data if from Driven Data Competition: https://www.drivendata.org/competitions/57/nepal-earthquake/ 
+This Data if from Driven Data Competition: https://www.drivendata.org/competitions/57/nepal-earthquake/ <br>
 Predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake. There are 3 grades of the damage:
 
 1 represents low damage
